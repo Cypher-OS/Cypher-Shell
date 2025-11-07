@@ -22,5 +22,13 @@ Cypher's ecosystem is built using PyQt5 and Python. It consists of Filemanager, 
 
 <img width="2880" height="1800" alt="screenshot-20251015-095155" src="https://github.com/user-attachments/assets/13689a39-0a03-46cc-ac02-7746fcfbfd94" />
 
+<img width="2880" height="1800" alt="screenshot-20251107-111456" src="https://github.com/user-attachments/assets/6892e1c0-322d-4ac8-b526-a99a31ae0d26" />
+
+<img width="2880" height="1800" alt="screenshot-20251107-110311" src="https://github.com/user-attachments/assets/0f84e245-d228-4b07-918e-c6eead12710d" />
+
+
+
+
+
 
 
