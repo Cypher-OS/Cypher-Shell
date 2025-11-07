@@ -8,9 +8,9 @@ Cypher's ecosystem is built using PyQt5 and Python. It consists of Filemanager, 
 2. Move them to a location like `/usr/local/bin`. If you downloaded the files in Downloads, run the commands
 
    ```
-   sudo mv ~/Downloads/cypher-vault /usr/local/bin
-   sudo mv ~/Downloads/cydeck /usr/local/bin
-   sudo mv ~/Downloads/synapse-settings /usr/local/bin
+   sudo mv ~/Downloads/cypher-vault /usr/local/bin/
+   sudo mv ~/Downloads/cydeck /usr/local/bin/
+   sudo mv ~/Downloads/synapse-settings /usr/local/bin/
 
    ```
 4. The config files are already present in `.config` folder, you can configure them as necessary.
