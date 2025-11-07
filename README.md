@@ -13,6 +13,13 @@ Cypher's ecosystem is built using PyQt5 and Python. It consists of Filemanager, 
    sudo mv ~/Downloads/synapse-settings /usr/local/bin/
 
    ```
+3. Add execute permission to all the files.   
+   ```
+   sudo chmod +x /usr/local/bin/cypher-vault
+   sudo chmod +x /usr/local/bin/cydeck
+   sudo chmod +x /usr/local/bin/synapse-settings
+
+   ```
 4. The config files are already present in `.config` folder, you can configure them as necessary.
 5. You can click on the `CYPHER` button present in the taskbar to launch apps. Alternatively, you can refer and edit the hyprland's .config file in `~/.config/hypr/hyprland.conf` for key bindings to launch the apps.
 
